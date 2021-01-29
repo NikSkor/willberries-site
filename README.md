@@ -4,6 +4,7 @@
 - HTML
 - CSS
 - JS
+
 В проекте использованы библиотеки:
 - Bootstrap v.5
 - Swiper Slider JS
